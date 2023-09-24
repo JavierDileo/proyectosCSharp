@@ -1,0 +1,11 @@
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\bin\Debug\ateti.exe.config
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\bin\Debug\ateti.exe
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\bin\Debug\ateti.pdb
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.Form1.resources
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.Properties.Resources.resources
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.csproj.GenerateResource.cache
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.csproj.CoreCompileInputs.cache
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.exe
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.pdb
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.csprojAssemblyReference.cache
+C:\Users\Liliana\Documents\Javi Programacion .Net\TP\trabajo practico 1\ateti\ateti\obj\Debug\ateti.Form2.resources
